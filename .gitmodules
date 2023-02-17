@@ -10,7 +10,7 @@
 	path = Tools/simulation/jmavsim/jMAVSim
 	url = https://github.com/PX4/jMAVSim.git
 	branch = main
-[submodule "Tools/simulation/gazebo-classic/sitl_gazebo-classic"] # Our fork
+[submodule "Tools/simulation/gazebo-classic/sitl_gazebo-classic"] # Our fork why broken?
 	path = Tools/simulation/gazebo-classic/sitl_gazebo-classic
 	url = git@github.com:wvu-urc/PX4-SITL_gazebo-classic-WVU-URC.git
 # [submodule "Tools/simulation/gazebo-classic/sitl_gazebo-classic"]
